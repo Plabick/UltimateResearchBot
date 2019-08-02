@@ -1,5 +1,5 @@
 # UltimateResearchBot
-This bot takes in a list of search terms are returns a summary of the top 25 articles on each term with links to further reading and tags in a .CSV file. It is meant to automate background research for projects or to create libraries on a given topic. I used this bot to make a library of use cases for machine learning that is easy to search through. 
+This bot takes in a list of search terms and returns a generated summary of the top 25 articles on each term. It is meant to automate background research for projects or to create libraries on a given topic. I used this bot to make a library of use cases for machine learning that is easy to search through. 
 
 ----------Use----------
 
